@@ -4,7 +4,7 @@ To install check terminal results for uname -r
 
  if your kernel is lower than 4.11,
  
-sudo apt-get install build-essential dkms
+sudo apt-get install build-essential git dkms
 
 git clone -b 4.10-down https://github.com/jeremyb31/rtl8723de.git
 
@@ -16,7 +16,7 @@ Then reboot
 
 If you have kernel 4.11 and newer do
 
-sudo apt-get install build-essential dkms
+sudo apt-get install build-essential git dkms
 
 git clone https://github.com/jeremyb31/rtl8723de.git
 
