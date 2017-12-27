@@ -1,6 +1,8 @@
 # rtl8723de
-Realtek RTL8723DE module for Linux kernel 
+Realtek RTL8723DE module for Linux kernel
+
 This device shows in lspci as "Realtek Semiconductor Co., Ltd. Device [10ec:d723]"
+
 To install check terminal results for uname -r
 
  if your kernel is lower than 4.11,
